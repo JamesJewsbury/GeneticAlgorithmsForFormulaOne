@@ -21,3 +21,4 @@ class calendar:
 
         :return: returns a float of the distance.
         """
+        return self._fitness
